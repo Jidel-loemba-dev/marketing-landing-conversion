@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background: #111827;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #ffffff;
+  color: #111827;
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 400px;
+}
